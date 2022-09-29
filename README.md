@@ -2,6 +2,7 @@
 - intrested in gamedev and coding in general
 - learning idk stuff
 - dont know how to use github sry
+- editing via cli with termux lool
 
 <!---
 rickyxfc03/rickyxfc03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
