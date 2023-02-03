@@ -3,7 +3,7 @@
 - learning idk stuff
 - dont know how to use github sry
 
-##more things coming! stay tuned
+## more things coming! stay tuned
 
 <!---
 rickyxfc03/rickyxfc03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
