@@ -1,7 +1,13 @@
 # hya, rick here
-- intrested in gamedev and coding in general
-- learning idk stuff
-- dont know how to use github sry
+## knows:
+- c#
+- java
+- js
+- html5
+## is learning:
+- c
+- python
+- umm.. suggest other languages!
 
 ## more things coming! stay tuned
 
