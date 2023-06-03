@@ -4,9 +4,11 @@
 - java
 - js
 - html5
+- sql
 ## is learning:
 - c
 - python
+- lua
 - umm.. suggest other languages!
 
 ## more things coming! stay tuned
