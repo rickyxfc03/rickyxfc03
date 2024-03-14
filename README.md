@@ -1,11 +1,7 @@
 # <div align="center">hya, rick here :D</div>  
 - interested in game dev 🎲
 - currently studying computer science at the University of Pisa
-
-## My Links
-[instagram](https://instagram.com/rickyxfc03) <br/>
-[twitter (unused)](https://twitter.com/rickyxfc03)
-
+  
 ## My Skill Set  
 
 ### Frontend  
